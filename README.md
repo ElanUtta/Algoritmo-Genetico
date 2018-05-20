@@ -1,4 +1,4 @@
-# Algoritmo-Gen-tico
+# Algoritmo-Genético
 Fiz alguns progrmas básicos e um problema mais complexo, Diversidade Máxima, utilizando ALgoritmo Genético
 
 No Arquivo Maior_Valor.c está um código genético simples, o intuito era apenas começar a entender o como funciona o a lógica de algoritmos genéticos. Ele tem o intuito de pegar o maior valor da função "x²", num espaço de valores de 0 a 5.
